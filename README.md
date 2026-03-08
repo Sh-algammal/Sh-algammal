@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Shady Algammal</h1>
-
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+Developer;Cybersecurity+Learner;Future+Red+Team+Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shady%20Algammal&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 </p>
+
+<h3 align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer;Laravel+Developer;Cybersecurity+Learner;Future+Red+Team+Engineer"/>
+
+</h3>
 
 <p align="center">
 
@@ -22,7 +26,7 @@
 
 - 🎓 Computer Science Student — **Tanta University**
 - 💻 Backend Developer using **PHP & Laravel**
-- 🔐 Currently learning **Cybersecurity & Red Teaming**
+- 🔐 Learning **Cybersecurity (Red Teaming Path)**
 - 🚀 Interested in **Web Security, APIs, and System Design**
 
 ---
@@ -38,81 +42,37 @@
 
 # 🛠 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=php"/>
-<img src="https://skillicons.dev/icons?i=js"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=laravel"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=cpp,php,js,python,html,css,laravel,mysql,git,github,linux,vscode"/>
 
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-<p align="center">
+## GPA Calculator
 
-<a href="https://github.com/Sh-algammal/gpa-calculator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh-algammal&repo=gpa-calculator&theme=tokyonight"/>
-</a>
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?logo=github)](https://github.com/Sh-algammal/gpa-calculator)
 
-<a href="https://github.com/Sh-algammal/student-management-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh-algammal&repo=student-management-system&theme=tokyonight"/>
-</a>
-
-</p>
+Tool that helps university students calculate their GPA easily.
 
 ---
 
-# 📊 GitHub Stats
+## Recipe Project
 
-<p align="center">
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?logo=github)](https://github.com/Sh-algammal/recipe-project)
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sh-algammal&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sh-algammal&layout=compact&theme=tokyonight"/>
-
-</p>
+Student system built using PHP and MySQL with authentication and CRUD operations.
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sh-algammal&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://streak-stats.demolab.com?user=Sh-algammal&theme=tokyonight"/>
 
 </p>
 
@@ -128,24 +88,46 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github.com/Sh-algammal/Sh-algammal/blob/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sh-algammal&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🐍 Contribution Snake
 
-<p>
+<p align="center">
+
+<img src="https://github.com/Sh-algammal/Sh-algammal/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/shady-algammal">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Shady%20Algammal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://orcid.org/0009-0005-0192-2845">
-<img src="https://img.shields.io/badge/ORCID-Profile-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ORCID-0009--0005--0192--2845-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </p>
