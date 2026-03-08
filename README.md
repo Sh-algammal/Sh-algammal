@@ -1,39 +1,153 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Shady Algammal</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sh-algammal&label=Profile%20views&color=0e75b6&style=flat" alt="Sh-algammal" /> </p>
 
+<p align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+Developer;Cybersecurity+Learner;Future+Red+Team+Engineer"/>
 
-- 🌱 I’m currently learning **Web Development**
-
-- 📫 How to reach me **shadyalgammal25@gmail.com**
-
-<div> <a href="https://twitter.com/sh_algammal" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/shady-algammal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Sh-algammal" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/sh.algammal" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:shadyalgammal25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-algammal&layout=compact&theme=highcontrast" alt=Sh-algammal />
+<p align="center">
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sh-algammal&show_icons=true&locale=en&theme=highcontrast" alt="Sh-algammal" /></p>
+<img src="https://komarev.com/ghpvc/?username=Sh-algammal&label=Profile%20views&color=0e75b6&style=flat"/>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sh-algammal&theme=highcontrast" alt="Sh-algammal" /></p>
+<img src="https://img.shields.io/github/followers/Sh-algammal?label=Followers&style=social"/>
 
+<img src="https://img.shields.io/github/stars/Sh-algammal?label=Stars&style=social"/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</p>
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Sh-algammal/30-nites-of-code)  
-  ![@Sh-algammal #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Sh-algammal)
+---
+
+# 👨‍💻 About Me
+
+- 🎓 Computer Science Student — **Tanta University**
+- 💻 Backend Developer using **PHP & Laravel**
+- 🔐 Currently learning **Cybersecurity & Red Teaming**
+- 🚀 Interested in **Web Security, APIs, and System Design**
+
+---
+
+# 🧠 Currently Learning
+
+- Advanced Laravel
+- Secure Authentication Systems
+- Linux for Cybersecurity
+- Networking Fundamentals
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=php"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=laravel"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Sh-algammal/gpa-calculator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh-algammal&repo=gpa-calculator&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Sh-algammal/student-management-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh-algammal&repo=student-management-system&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sh-algammal&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sh-algammal&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sh-algammal&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh-algammal&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/Sh-algammal/Sh-algammal/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/shady-algammal">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://orcid.org/0009-0005-0192-2845">
+<img src="https://img.shields.io/badge/ORCID-Profile-green?style=for-the-badge"/>
+</a>
+
+</p>
